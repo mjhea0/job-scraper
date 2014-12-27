@@ -1,7 +1,6 @@
-.DS_Store
-.pyc
+*.pyc
 *.log
 *.db
-config.py
-config.pyc
+*.sqlite
+.DS_Store
 env
