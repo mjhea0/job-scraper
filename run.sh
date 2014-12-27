@@ -1,2 +1,2 @@
 #!/bin/sh
-python craigs.py
+python job.py
